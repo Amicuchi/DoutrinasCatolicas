@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "Adoração de Imagens",
+    "institution": "Formalizada no Segundo Concílio de Niceia, 787 d.C.",
+    "institutedBy": "Concílio de bispos sob o imperador bizantino Constantino VI e sua mãe Irene.",
+    "verse": "Êxodo 20:4-5 - \"Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra. Não te encurvarás a elas nem as servirás.\""
+  },
+  {
+    "id": 2,
+    "title": "Acender Velas",
+    "institution": "Prática desenvolvida ao longo dos primeiros séculos do Cristianismo, sem um decreto formal específico.",
+    "institutedBy": "Uso comum entre cristãos primitivos.",
+    "verse": "Embora não haja uma contradição direta, alguns poderiam argumentar que o uso ritualístico de velas pode ser visto como uma prática não encontrada explicitamente nas Escrituras (Colossenses 2:8 - \"Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo.\")"
+  },
+  {
+    "id": 3,
+    "title": "Construção de Igrejas sobre Túmulos dos Apóstolos",
+    "institution": "Prática comum desde os primeiros séculos, formalizada com a construção da Basílica de São Pedro no século IV.",
+    "institutedBy": "Iniciada sob o imperador Constantino.",
+    "verse": "Mateus 23:27-28 - \"Ai de vós, escribas e fariseus, hipócritas! Pois que sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda a imundícia.\""
+  },
+  {
+    "id": 4,
+    "title": "Consagração de Santos",
+    "institution": "Formalização do processo de canonização no século X.",
+    "institutedBy": "Papa João XV foi o primeiro a formalizar um processo de canonização em 993 d.C.",
+    "verse": "1 Timóteo 2:5 - \"Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.\""
+  },
+  {
+    "id": 5,
+    "title": "Celebração da Missa como Sacrifício",
+    "institution": "Desenvolvido ao longo dos séculos, formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Hebreus 10:10-12 - \"Na qual vontade temos sido santificados pela oblação do corpo de Jesus Cristo, feita uma vez. E assim todo o sacerdote aparece cada dia, ministrando e oferecendo muitas vezes os mesmos sacrifícios, que nunca podem tirar pecados; mas este, havendo oferecido para sempre um único sacrifício pelos pecados, está assentado para sempre à destra de Deus.\""
+  },
+  {
+    "id": 6,
+    "title": "O Purgatório",
+    "institution": "Doutrina formalizada no Concílio de Florença (1438-1445).",
+    "institutedBy": "Concílio de Florença.",
+    "verse": "Lucas 16:26 - \"E, além disso, está posto um grande abismo entre nós e vós, de sorte que os que quisessem passar daqui para vós não poderiam, nem tampouco os de lá passar para cá.\""
+  },
+  {
+    "id": 7,
+    "title": "Celibato Clerical",
+    "institution": "Tornou-se obrigatório no Concílio de Latrão I (1123).",
+    "institutedBy": "Papa Calisto II.",
+    "verse": "1 Timóteo 4:1-3 - \"Mas o Espírito expressamente diz que nos últimos tempos apostatarão alguns da fé, dando ouvidos a espíritos enganadores, e a doutrinas de demônios; Pela hipocrisia de homens que falam mentiras, tendo cauterizada a sua própria consciência; Proibindo o casamento, e ordenando a abstinência dos manjares que Deus criou para os fiéis, e para os que conhecem a verdade, a fim de usarem deles com ações de graças.\""
+  },
+  {
+    "id": 8,
+    "title": "Confissão Auricular (Confissão a um Sacerdote)",
+    "institution": "Formalizada no IV Concílio de Latrão (1215).",
+    "institutedBy": "Papa Inocêncio III.",
+    "verse": "1 João 1:9 - \"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.\""
+  },
+  {
+    "id": 9,
+    "title": "Indulgências",
+    "institution": "Formalização e regulamentação no Concílio de Latrão II (1139) e depois no Concílio de Trento.",
+    "institutedBy": "Papa Eugênio III (formalização inicial), Concílio de Trento (1545-1563) para regulamentação.",
+    "verse": "Efésios 2:8-9 - \"Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie.\""
+  },
+  {
+    "id": 10,
+    "title": "Transubstanciação (O pão e o vinho se transformam no corpo e sangue de Cristo)",
+    "institution": "Formalizada no IV Concílio de Latrão (1215).",
+    "institutedBy": "Papa Inocêncio III.",
+    "verse": "Hebreus 9:24-28 - \"Porque Cristo não entrou num santuário feito por mãos, figura do verdadeiro, porém no mesmo céu, para agora comparecer por nós perante a face de Deus; Nem também para a si mesmo se oferecer muitas vezes, como o sumo sacerdote cada ano entra no santuário com sangue alheio; De outra maneira, necessário lhe fora padecer muitas vezes desde a fundação do mundo. Mas agora na consumação dos séculos uma vez se manifestou, para aniquilar o pecado pelo sacrifício de si mesmo. E, como aos homens está ordenado morrerem uma vez, vindo depois disso o juízo, assim também Cristo, oferecendo-se uma vez para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam para salvação.\""
+  },
+  {
+    "id": 11,
+    "title": "Batismo Infantil",
+    "institution": "Prática desenvolvida desde os primeiros séculos, formalmente estabelecida no Concílio de Cartago (418).",
+    "institutedBy": "Concílio de Cartago.",
+    "verse": "Marcos 16:16 - \"Quem crer e for batizado será salvo; mas quem não crer será condenado.\" (Alguns interpretam que o batismo deve seguir a crença pessoal, o que um bebê não pode fazer.)"
+  },
+  {
+    "id": 12,
+    "title": "O Papa como Cabeça da Igreja (Primazia Papal)",
+    "institution": "A doutrina da primazia papal foi desenvolvida ao longo dos séculos, com uma definição mais clara no Concílio Vaticano I (1870).",
+    "institutedBy": "Concílio Vaticano I.",
+    "verse": "Mateus 23:8-9 - \"Vós, porém, não queirais ser chamados Rabi, porque um só é o vosso Mestre, a saber, o Cristo, e todos vós sois irmãos. E a ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o qual está nos céus.\""
+  },
+  {
+    "id": 13,
+    "title": "A Imaculada Conceição de Maria",
+    "institution": "Proclamada como dogma em 1854.",
+    "institutedBy": "Papa Pio IX.",
+    "verse": "Romanos 3:23 - \"Porque todos pecaram e destituídos estão da glória de Deus.\""
+  },
+  {
+    "id": 14,
+    "title": "A Assunção de Maria",
+    "institution": "Proclamada como dogma em 1950.",
+    "institutedBy": "Papa Pio XII.",
+    "verse": "Não há menção direta na Bíblia sobre a assunção corporal de Maria, o que leva alguns a considerar essa doutrina sem base bíblica explícita."
+  },
+  {
+    "id": 15,
+    "title": "Rosário e Oração a Maria e aos Santos",
+    "institution": "Prática desenvolvida ao longo dos séculos, com o Rosário popularizado no século XIII por São Domingos.",
+    "institutedBy": "Não há uma instituição formal única, mas a prática foi promovida por vários papas e santos.",
+    "verse": "Mateus 6:7 - \"E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.\""
+  },
+  {
+    "id": 16,
+    "title": "Sete Sacramentos",
+    "institution": "Formalização dos sete sacramentos no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "A Bíblia menciona vários atos considerados sacramentos (batismo, eucaristia), mas não há uma lista formal dos sete sacramentos como definidos pela Igreja Católica."
+  },
+  {
+    "id": 17,
+    "title": "Confirmação (Crisma)",
+    "institution": "Prática existente desde os primeiros séculos, formalizada como um sacramento separado no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Atos 8:14-17 (A imposição das mãos é mencionada, mas a definição e a prática específicas da confirmação como sacramento separado não estão claramente detalhadas na Bíblia.)"
+  },
+  {
+    "id": 18,
+    "title": "Unção dos Enfermos (Extrema Unção)",
+    "institution": "Prática existente desde os primeiros séculos, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Tiago 5:14-15 - \"Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor; E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.\" (A prática em si é bíblica, mas a formalização e interpretação variam.)"
+  },
+  {
+    "id": 19,
+    "title": "Celebração da Eucaristia como a Repetição do Sacrifício de Cristo",
+    "institution": "Formalizada como doutrina no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Hebreus 9:28 - \"Assim também Cristo, oferecendo-se uma vez para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o esperam para salvação.\""
+  },
+  {
+    "id": 20,
+    "title": "Oração pelos Mortos",
+    "institution": "Prática antiga, confirmada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Hebreus 9:27 - \"E, como aos homens está ordenado morrerem uma vez, vindo depois disso o juízo.\""
+  },
+  {
+    "id": 21,
+    "title": "Dogma da Trindade",
+    "institution": "Formalizado no Concílio de Nicéia (325) e no Concílio de Constantinopla (381).",
+    "institutedBy": "Concílios Ecumênicos.",
+    "verse": "Não há um versículo que contradiga diretamente a doutrina da Trindade, mas alguns grupos afirmam que a doutrina não está explicitamente detalhada na Bíblia. A doutrina é derivada de passagens como Mateus 28:19 e 2 Coríntios 13:14."
+  },
+  {
+    "id": 22,
+    "title": "Purgatório",
+    "institution": "Formalizado no Concílio de Florença (1438-1445) e no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílios Ecumênicos.",
+    "verse": "Lucas 16:26 - \"E, além disso, está posto um grande abismo entre nós e vós, de sorte que os que quisessem passar daqui para vós não poderiam, nem tampouco os de lá passar para cá.\""
+  },
+  {
+    "id": 23,
+    "title": "Doutrina da Infalibilidade Papal",
+    "institution": "Formalizado no Concílio Vaticano I (1870).",
+    "institutedBy": "Concílio Vaticano I.",
+    "verse": "Romanos 3:23 - \"Porque todos pecaram e destituídos estão da glória de Deus.\" (Alguns argumentam que isso inclui os papas.)"
+  },
+  {
+    "id": 24,
+    "title": "Jejum e Abstinência",
+    "institution": "Práticas que se desenvolveram ao longo dos séculos, com regulamentações formais em vários concílios, incluindo o Concílio de Trento.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "Colossenses 2:16 - \"Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados.\""
+  },
+  {
+    "id": 25,
+    "title": "Celebração da Páscoa e outras festas cristãs em datas específicas",
+    "institution": "A data da Páscoa foi estabelecida no Concílio de Nicéia (325).",
+    "institutedBy": "Concílio de Nicéia.",
+    "verse": "Gálatas 4:10-11 - \"Guardais dias, e meses, e tempos, e anos. Receio de vós, que não haja trabalhado em vão para convosco.\""
+  },
+  {
+    "id": 26,
+    "title": "A Confirmação da Bíblia como cânon oficial (incluindo os livros deuterocanônicos)",
+    "institution": "Confirmado no Concílio de Trento (1546).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Apocalipse 22:18-19 - \"Eu testifico a todo aquele que ouvir as palavras da profecia deste livro que, se alguém lhes acrescentar alguma coisa, Deus fará vir sobre ele as pragas que estão escritas neste livro; e se alguém tirar quaisquer palavras do livro desta profecia, Deus tirará a sua parte da árvore da vida, e da cidade santa, que estão escritas neste livro.\""
+  },
+  {
+    "id": 27,
+    "title": "Doutrina da Comunhão dos Santos",
+    "institution": "Desenvolvida ao longo dos séculos, formalizada em vários concílios, incluindo o Concílio de Trento.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "1 Timóteo 2:5 - \"Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.\""
+  },
+  {
+    "id": 28,
+    "title": "Culto Mariano (Veneração a Maria)",
+    "institution": "Desenvolvido ao longo dos séculos, com dogmas marianos formalizados no Concílio de Éfeso (431) e outros.",
+    "institutedBy": "Concílio de Éfeso, Concílio de Trento, e outros.",
+    "verse": "Lucas 11:27-28 - \"E aconteceu que, dizendo ele estas coisas, uma mulher dentre a multidão, levantando a voz, lhe disse"
+  },
+  {
+    "id": 29,
+    "title": "Uso da Hóstia (Pão Ázimo) na Eucaristia",
+    "institution": "Prática formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Mateus 26:26 - \"E, quando comiam, Jesus tomou o pão, e, abençoando-o, o partiu e o deu aos discípulos, e disse"
+  },
+  {
+    "id": 30,
+    "title": "Oração pelos Mortos",
+    "institution": "Prática antiga, confirmada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Eclesiastes 9:5-6 - \"Porque os vivos sabem que hão de morrer, mas os mortos não sabem coisa nenhuma, nem tampouco terão eles recompensa, mas a sua memória fica entregue ao esquecimento. Também o seu amor, o seu ódio, e a sua inveja já pereceram, e já não têm parte alguma para sempre, em coisa alguma do que se faz debaixo do sol.\""
+  },
+  {
+    "id": 31,
+    "title": "Confissão Pública dos Pecados",
+    "institution": "Evoluiu para a confissão privada (auricular) no IV Concílio de Latrão (1215).",
+    "institutedBy": "Papa Inocêncio III.",
+    "verse": "1 João 1:9 - \"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.\""
+  },
+  {
+    "id": 32,
+    "title": "Indulgências Plenárias e Parciais",
+    "institution": "Regulamentadas no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Efésios 2:8-9 - \"Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie.\""
+  },
+  {
+    "id": 33,
+    "title": "Reverência ao Papa como \"Santo Padre\"",
+    "institution": "Prática desenvolvida ao longo dos séculos.",
+    "institutedBy": "Vários papas e concílios.",
+    "verse": "Mateus 23:9 - \"E a ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o qual está nos céus.\""
+  },
+  {
+    "id": 34,
+    "title": "Ação de Graças (Eucaristia) Celebrada Diariamente",
+    "institution": "Prática estabelecida gradualmente nos primeiros séculos do Cristianismo.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "Hebreus 10:10-12 - \"Na qual vontade temos sido santificados pela oblação do corpo de Jesus Cristo, feita uma vez. E assim todo o sacerdote aparece cada dia, ministrando e oferecendo muitas vezes os mesmos sacrifícios, que nunca podem tirar pecados; mas este, havendo oferecido para sempre um único sacrifício pelos pecados, está assentado para sempre à destra de Deus.\""
+  },
+  {
+    "id": 35,
+    "title": "Uso do Latim como Língua Litúrgica",
+    "institution": "Estabelecida formalmente no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "1 Coríntios 14:9 - \"Assim também vós, se com a língua não disserdes palavras bem inteligíveis, como se entenderá o que se diz? Porque estareis como que falando ao ar.\""
+  },
+  {
+    "id": 36,
+    "title": "Oração do Ângelus",
+    "institution": "Prática desenvolvida ao longo dos séculos, formalizada no século XIII.",
+    "institutedBy": "Vários papas.",
+    "verse": "Não há uma contradição direta, mas a prática específica não está detalhada na Bíblia."
+  },
+  {
+    "id": 37,
+    "title": "Uso de Relíquias",
+    "institution": "Prática desde os primeiros séculos do Cristianismo, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Deuteronômio 18:10-12 - \"Entre ti se não achará quem faça passar pelo fogo a seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro, nem encantador de encantamentos, nem quem consulte um espírito adivinhador, nem mágico, nem quem consulte os mortos; Pois todo aquele que faz estas coisas é abominação ao Senhor.\""
+  },
+  {
+    "id": 38,
+    "title": "Procissões Religiosas",
+    "institution": "Prática desde os primeiros séculos do Cristianismo, formalizada em vários concílios.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "Colossenses 2:23 - \"As quais têm, na verdade, alguma aparência de sabedoria, em devoção voluntária, humildade, e em disciplina do corpo, mas não são de valor algum senão para a satisfação da carne.\""
+  },
+  {
+    "id": 39,
+    "title": "Culto às Relíquias e Ícones",
+    "institution": "Formalizado no Segundo Concílio de Niceia (787).",
+    "institutedBy": "Segundo Concílio de Niceia.",
+    "verse": "Êxodo 20:4-5 - \"Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra. Não te encurvarás a elas nem as servirás.\""
+  },
+  {
+    "id": 40,
+    "title": "Instituição do Calendário Litúrgico",
+    "institution": "Desenvolvido ao longo dos séculos, com várias reformas, incluindo a reforma do calendário gregoriano em 1582.",
+    "institutedBy": "Papa Gregório XIII.",
+    "verse": "Gálatas 4:10-11 - \"Guardais dias, e meses, e tempos, e anos. Receio de vós, que não haja trabalhado em vão para convosco.\""
+  },
+  {
+    "id": 41,
+    "title": "Oração do Terço/Rosário",
+    "institution": "Popularizado no século XIII por São Domingos.",
+    "institutedBy": "São Domingos e várias aprovações papais.",
+    "verse": "Mateus 6:7 - \"E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.\""
+  },
+  {
+    "id": 42,
+    "title": "Escapulário",
+    "institution": "Surgiu no século XIII com a Ordem dos Carmelitas.",
+    "institutedBy": "Ordem dos Carmelitas e várias aprovações papais.",
+    "verse": "Colossenses 2:20-23 - \"Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo, tais como"
+  },
+  {
+    "id": 43,
+    "title": "Intercessão dos Santos",
+    "institution": "Prática desde os primeiros séculos do Cristianismo, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "1 Timóteo 2:5 - \"Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.\""
+  },
+  {
+    "id": 44,
+    "title": "Tradição Apostólica como Fonte de Revelação",
+    "institution": "Formalizada no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Colossenses 2:8 - \"Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo.\""
+  },
+  {
+    "id": 45,
+    "title": "Missas para os Mortos",
+    "institution": "Prática desde os primeiros séculos do Cristianismo, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Eclesiastes 9:5-6 - \"Porque os vivos sabem que hão de morrer, mas os mortos não sabem coisa nenhuma, nem tampouco terão eles recompensa, mas a sua memória fica entregue ao esquecimento. Também o seu amor, o seu ódio, e a sua inveja já pereceram, e já não têm parte alguma para sempre, em coisa alguma do que se faz debaixo do sol.\""
+  },
+  {
+    "id": 46,
+    "title": "Celebração de Festa de Corpus Christi",
+    "institution": "Estabelecida em 1264 pelo Papa Urbano IV.",
+    "institutedBy": "Papa Urbano IV.",
+    "verse": "Colossenses 2:16-17 - \"Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados, Que são sombras das coisas futuras, mas o corpo é de Cristo.\""
+  },
+  {
+    "id": 47,
+    "title": "Rito da Primeira Comunhão",
+    "institution": "Desenvolvido ao longo dos séculos e formalizado na Idade Média.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "1 Coríntios 11:28-29 - \"Examine-se, pois, o homem a si mesmo, e assim coma deste pão, e beba deste cálice. Porque o que come e bebe indignamente, come e bebe para sua própria condenação, não discernindo o corpo do Senhor.\""
+  },
+  {
+    "id": 48,
+    "title": "Reza da Via Sacra (Via Crucis)",
+    "institution": "Popularizada no século XIV por São Francisco de Assis.",
+    "institutedBy": "São Francisco de Assis e várias aprovações papais.",
+    "verse": "Não há uma contradição direta, mas a prática específica não está detalhada na Bíblia."
+  },
+  {
+    "id": 49,
+    "title": "Doutrina do Pecado Original",
+    "institution": "Formalizada por Santo Agostinho e mais tarde no Concílio de Cartago (418).",
+    "institutedBy": "Santo Agostinho e Concílio de Cartago.",
+    "verse": "Ezequiel 18:20 - \"A alma que pecar, essa morrerá; o filho não levará a iniquidade do pai, nem o pai levará a iniquidade do filho; a justiça do justo ficará sobre ele, e a impiedade do ímpio cairá sobre ele.\""
+  },
+  {
+    "id": 50,
+    "title": "Bênção Apostólica e Indulgências Papais",
+    "institution": "Desenvolvido ao longo dos séculos, com regulamentações formais em vários concílios.",
+    "institutedBy": "Vários papas e concílios.",
+    "verse": "Mateus 6:1-4 - \"Guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; de outra sorte não tereis galardão junto de vosso Pai, que está nos céus. Quando, pois, deres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que já receberam o seu galardão. Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a tua direita; Para que a tua esmola seja dada em secreto; e teu Pai, que vê em secreto, te recompensará publicamente.\""
+  },
+  {
+    "id": 51,
+    "title": "Batismo por Aspersão em vez de Imersão",
+    "institution": "Prática que se tornou comum a partir do século II.",
+    "institutedBy": "Prática estabelecida pela Igreja primitiva.",
+    "verse": "Romanos 6:3-4 - \"Ou não sabeis que todos quantos fomos batizados em Jesus Cristo fomos batizados na sua morte? De sorte que fomos sepultados com ele pelo batismo na morte; para que, como Cristo foi ressuscitado dentre os mortos, pela glória do Pai, assim andemos nós também em novidade de vida.\""
+  },
+  {
+    "id": 52,
+    "title": "Celibato Clerical",
+    "institution": "Formalizado no Primeiro Concílio de Latrão (1123).",
+    "institutedBy": "Primeiro Concílio de Latrão.",
+    "verse": "1 Timóteo 3:2 - \"Convém, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar.\""
+  },
+  {
+    "id": 53,
+    "title": "Coronelamento de Imagens Religiosas",
+    "institution": "Prática desenvolvida ao longo dos séculos.",
+    "institutedBy": "Vários papas e concílios.",
+    "verse": "Isaías 42:8 - \"Eu sou o Senhor; este é o meu nome; a minha glória, pois, a outrem não darei, nem o meu louvor às imagens de escultura.\""
+  },
+  {
+    "id": 54,
+    "title": "Estabelecimento do Direito Canônico",
+    "institution": "Formalizado com a publicação do Código de Direito Canônico em 1917 e revisado em 1983.",
+    "institutedBy": "Papa Bento XV (1917) e Papa João Paulo II (1983).",
+    "verse": "Mateus 23:4 - \"Pois atam fardos pesados e difíceis de carregar, e os põem aos ombros dos homens; eles, porém, nem com o dedo querem movê-los.\""
+  },
+  {
+    "id": 55,
+    "title": "Solenidade de Todos os Santos (Dia de Todos os Santos)",
+    "institution": "Estabelecida em 835 pelo Papa Gregório IV.",
+    "institutedBy": "Papa Gregório IV.",
+    "verse": "1 Coríntios 1:2 - \"À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados para serem santos, com todos os que em todo o lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso.\""
+  },
+  {
+    "id": 56,
+    "title": "Doutrina da Transubstanciação",
+    "institution": "Formalizada no Concílio de Latrão IV (1215).",
+    "institutedBy": "Concílio de Latrão IV.",
+    "verse": "João 6:53-57 - \"Disse-lhes, pois, Jesus"
+  },
+  {
+    "id": 57,
+    "title": "Veneração de Relíquias e Peregrinações",
+    "institution": "Prática desde os primeiros séculos do Cristianismo, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Jeremias 7:31 - \"E edificaram os altos de Tofete, que está no vale do filho de Hinom, para queimarem no fogo a seus filhos e suas filhas; o que nunca ordenei, nem me subiu ao coração.\""
+  },
+  {
+    "id": 58,
+    "title": "Recitação do Credo Niceno-Constantinopolitano",
+    "institution": "Estabelecido no Concílio de Nicéia (325) e no Concílio de Constantinopla (381).",
+    "institutedBy": "Concílios de Nicéia e Constantinopla.",
+    "verse": "Não há uma contradição direta, mas a formulação específica não está presente na Bíblia."
+  },
+  {
+    "id": 59,
+    "title": "Uso de Paramentos Litúrgicos",
+    "institution": "Prática desenvolvida ao longo dos séculos, formalizada em vários concílios.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "Mateus 23:5 - \"E fazem todas as obras a fim de serem vistos pelos homens; pois trazem largos filactérios, e alargam as franjas das suas vestes.\""
+  },
+  {
+    "id": 60,
+    "title": "Estabelecimento de Seminários para a Formação de Padres",
+    "institution": "Formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Atos 4:13 - \"Então eles, vendo a ousadia de Pedro e João, e informados de que eram homens sem letras e indoutos, se maravilharam; e tinham conhecimento de que eles haviam estado com Jesus.\""
+  },
+  {
+    "id": 61,
+    "title": "Doutrina da Imaculada Conceição de Maria",
+    "institution": "Proclamada dogma em 1854 pelo Papa Pio IX.",
+    "institutedBy": "Papa Pio IX.",
+    "verse": "Romanos 3:23 - \"Porque todos pecaram e destituídos estão da glória de Deus.\""
+  },
+  {
+    "id": 62,
+    "title": "Dogma da Assunção de Maria",
+    "institution": "Proclamado dogma em 1950 pelo Papa Pio XII.",
+    "institutedBy": "Papa Pio XII.",
+    "verse": "1 Timóteo 2:5 - \"Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.\""
+  },
+  {
+    "id": 63,
+    "title": "Atributo da Infalibilidade Papal",
+    "institution": "Formalizado no Concílio Vaticano I (1870).",
+    "institutedBy": "Concílio Vaticano I.",
+    "verse": "Romanos 3:4 - \"De maneira nenhuma; sempre seja Deus verdadeiro, e todo homem mentiroso, como está escrito"
+  },
+  {
+    "id": 64,
+    "title": "Canonização dos Santos",
+    "institution": "Prática formalizada ao longo dos séculos, com procedimentos regulamentados no Concílio de Trento.",
+    "institutedBy": "Vários papas e concílios.",
+    "verse": "1 Coríntios 1:2 - \"À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados para serem santos, com todos os que em todo o lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso.\""
+  },
+  {
+    "id": 65,
+    "title": "Doutrina do Purgatório",
+    "institution": "Formalizada no Concílio de Florença (1439) e Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílios de Florença e Trento.",
+    "verse": "Lucas 23:43 - \"E disse-lhe Jesus"
+  },
+  {
+    "id": 66,
+    "title": "Procissões com o Santíssimo Sacramento",
+    "institution": "Formalizada em vários concílios e papas, especialmente no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Mateus 6:5 - \"E, quando orares, não sejas como os hipócritas; pois se comprazem em orar em pé nas sinagogas e às esquinas das ruas, para serem vistos pelos homens. Em verdade vos digo que já receberam o seu galardão.\""
+  },
+  {
+    "id": 67,
+    "title": "Rito da Crisma (Confirmação)",
+    "institution": "Formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Atos 8:14-17 - \"Os apóstolos, pois, que estavam em Jerusalém, ouvindo que Samaria recebera a palavra de Deus, enviaram para lá Pedro e João. Os quais, tendo descido, oraram por eles para que recebessem o Espírito Santo. Porque sobre nenhum deles tinha ainda descido; mas somente eram batizados em nome do Senhor Jesus. Então lhes impuseram as mãos, e receberam o Espírito Santo.\""
+  },
+  {
+    "id": 68,
+    "title": "Rito do Matrimônio como Sacramento",
+    "institution": "Formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "1 Coríntios 7:9 - \"Mas, se não podem conter-se, casem-se. Porque é melhor casar do que abrasar-se.\""
+  },
+  {
+    "id": 69,
+    "title": "Oração a Maria e aos Santos",
+    "institution": "Prática desenvolvida ao longo dos séculos e formalizada em vários concílios.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "1 Timóteo 2:5 - \"Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.\""
+  },
+  {
+    "id": 70,
+    "title": "Uso do Crucifixo",
+    "institution": "Prática comum desde os primeiros séculos do Cristianismo.",
+    "institutedBy": "Desenvolvido pela Igreja primitiva.",
+    "verse": "Deuteronômio 4:15-19 - \"Guardai, pois, com diligência as vossas almas, pois aparência nenhuma vistes no dia em que o Senhor vosso Deus em Horebe falou convosco do meio do fogo; Para que não vos corrompais, e vos façais alguma imagem esculpida na forma de qualquer figura, semelhança de homem ou mulher.\""
+  },
+  {
+    "id": 71,
+    "title": "Rito das Cinzas na Quarta-Feira de Cinzas",
+    "institution": "Formalizado no século XI.",
+    "institutedBy": "Papa Urbano II.",
+    "verse": "Mateus 6:16-18 - \"E, quando jejuardes, não vos mostreis contristados como os hipócritas; porque desfiguram os seus rostos para que aos homens pareça que jejuam. Em verdade vos digo que já receberam o seu galardão. Tu, porém, quando jejuares, unge a tua cabeça e lava o teu rosto, Para não pareceres aos homens que jejuas, mas a teu Pai que está em secreto; e teu Pai, que vê em secreto, te recompensará publicamente.\""
+  },
+  {
+    "id": 72,
+    "title": "Doutrina das Indulgências",
+    "institution": "Regulamentada no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Efésios 2:8-9 - \"Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie.\""
+  },
+  {
+    "id": 73,
+    "title": "Uso de Água Benta",
+    "institution": "Prática comum desde os primeiros séculos do Cristianismo.",
+    "institutedBy": "Desenvolvido pela Igreja primitiva.",
+    "verse": "2 Reis 18:4 - \"Ele tirou os altos, quebrou as estátuas, deitou abaixo os bosques e fez em pedaços a serpente de metal que Moisés fizera; porquanto até àquele dia os filhos de Israel lhe queimavam incenso, e lhe chamavam Neustã.\""
+  },
+  {
+    "id": 74,
+    "title": "Rito do Exorcismo",
+    "institution": "Prática comum desde os primeiros séculos do Cristianismo, formalizada no Rituale Romanum (1614).",
+    "institutedBy": "Papa Paulo V.",
+    "verse": "Mateus 10:8 - \"Curai os enfermos, limpai os leprosos, ressuscitai os mortos, expulsai os demônios; de graça recebestes, de graça dai.\""
+  },
+  {
+    "id": 75,
+    "title": "Uso do Escapulário",
+    "institution": "Surgiu no século XIII com a Ordem dos Carmelitas.",
+    "institutedBy": "Ordem dos Carmelitas e várias aprovações papais.",
+    "verse": "Colossenses 2:20-23 - \"Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo, tais como"
+  },
+  {
+    "id": 76,
+    "title": "Uso de Óleo Santo na Unção dos Enfermos",
+    "institution": "Prática comum desde os primeiros séculos do Cristianismo, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Tiago 5:14-15 - \"Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor; E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.\""
+  },
+  {
+    "id": 77,
+    "title": "Estabelecimento do Rosário como Prática Devocional",
+    "institution": "Popularizado no século XIII por São Domingos.",
+    "institutedBy": "São Domingos e várias aprovações papais.",
+    "verse": "Mateus 6:7 - \"E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.\""
+  },
+  {
+    "id": 78,
+    "title": "Construção de Igrejas em Nome de Santos",
+    "institution": "Prática comum desde os primeiros séculos do Cristianismo.",
+    "institutedBy": "Desenvolvido pela Igreja primitiva.",
+    "verse": "Atos 7:48-49 - \"Mas o Altíssimo não habita em templos feitos por mãos de homens, como diz o profeta"
+  },
+  {
+    "id": 79,
+    "title": "Estabelecimento do Sínodo dos Bispos",
+    "institution": "Formalizado no Concílio Vaticano II (1965).",
+    "institutedBy": "Concílio Vaticano II.",
+    "verse": "Efésios 4:11-12 - \"E ele mesmo deu uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, Querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo.\""
+  },
+  {
+    "id": 80,
+    "title": "Reconhecimento de Aparições Marianas",
+    "institution": "Vários reconhecimentos ao longo dos séculos, com formalização no Concílio Vaticano II.",
+    "institutedBy": "Vários papas e concílios.",
+    "verse": "Gálatas 1:8 - \"Mas, ainda que nós mesmos ou um anjo do céu vos anuncie outro evangelho além do que já vos tenho anunciado, seja anátema.\""
+  },
+  {
+    "id": 81,
+    "title": "Recitação do Angelus",
+    "institution": "Prática que se popularizou no século XI.",
+    "institutedBy": "Papa Urbano II e outros papas subsequentes.",
+    "verse": "Mateus 6:7 - \"E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.\""
+  },
+  {
+    "id": 82,
+    "title": "Rito da Extrema Unção",
+    "institution": "Formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Tiago 5:14-15 - \"Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor; E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.\""
+  },
+  {
+    "id": 83,
+    "title": "Uso de Sacramentais (objetos abençoados)",
+    "institution": "Desenvolvido ao longo dos séculos.",
+    "institutedBy": "Vários papas e concílios.",
+    "verse": "2 Reis 18:4 - \"Ele tirou os altos, quebrou as estátuas, deitou abaixo os bosques e fez em pedaços a serpente de metal que Moisés fizera; porquanto até àquele dia os filhos de Israel lhe queimavam incenso, e lhe chamavam Neustã.\""
+  },
+  {
+    "id": 84,
+    "title": "Instituição das Horas Canônicas (Liturgia das Horas)",
+    "institution": "Formalizado ao longo dos séculos, especialmente no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Mateus 6:7 - \"E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.\""
+  },
+  {
+    "id": 85,
+    "title": "Celebração da Festa de Corpus Christi",
+    "institution": "Estabelecida pelo Papa Urbano IV em 1264.",
+    "institutedBy": "Papa Urbano IV.",
+    "verse": "João 6:53-56 - \"Disse-lhes, pois, Jesus"
+  },
+  {
+    "id": 86,
+    "title": "Doutrina da Perpétua Virgindade de Maria",
+    "institution": "Formalizada no Concílio de Latrão (649).",
+    "institutedBy": "Papa Martinho I.",
+    "verse": "Mateus 1:25 - \"E não a conheceu até que deu à luz seu filho, o primogênito; e pôs-lhe por nome JESUS.\""
+  },
+  {
+    "id": 87,
+    "title": "Oração pelos Mortos",
+    "institution": "Prática comum desde os primeiros séculos do Cristianismo, formalizada no Concílio de Trento.",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Eclesiastes 9:5-6 - \"Porque os vivos sabem que hão de morrer, mas os mortos não sabem coisa nenhuma, nem tampouco terão eles recompensa, mas a sua memória fica entregue ao esquecimento. Tanto o seu amor, como o seu ódio, e a sua inveja já pereceram; e já não têm parte alguma neste século, em coisa alguma do que se faz debaixo do sol.\""
+  },
+  {
+    "id": 88,
+    "title": "Processo de Beatificação e Canonização",
+    "institution": "Formalizado no Concílio de Trento e revisado por vários papas.",
+    "institutedBy": "Concílio de Trento e papas subsequentes.",
+    "verse": "Romanos 1:7 - \"A todos os que estais em Roma, amados de Deus, chamados santos"
+  },
+  {
+    "id": 89,
+    "title": "Oração do Terço (Rosário)",
+    "institution": "Popularizado no século XIII por São Domingos.",
+    "institutedBy": "São Domingos e várias aprovações papais.",
+    "verse": "Mateus 6:7 - \"E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.\""
+  },
+  {
+    "id": 90,
+    "title": "Rito do Sacramento da Penitência (Confissão)",
+    "institution": "Formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "1 João 1:9 - \"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.\""
+  },
+  {
+    "id": 91,
+    "title": "Consagração a Maria",
+    "institution": "Prática desenvolvida ao longo dos séculos, especialmente popularizada por São Luís de Montfort no século XVIII.",
+    "institutedBy": "São Luís de Montfort e várias aprovações papais.",
+    "verse": "1 Timóteo 2:5 - \"Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.\""
+  },
+  {
+    "id": 92,
+    "title": "Instituição da Quaresma",
+    "institution": "Formalizada no Concílio de Niceia (325).",
+    "institutedBy": "Concílio de Niceia.",
+    "verse": "Colossenses 2:16 - \"Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados.\""
+  },
+  {
+    "id": 93,
+    "title": "Celebração do Advento",
+    "institution": "Formalizada ao longo dos séculos.",
+    "institutedBy": "Vários concílios e papas.",
+    "verse": "Colossenses 2:16 - \"Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados.\""
+  },
+  {
+    "id": 94,
+    "title": "Uso do Hábito Religioso",
+    "institution": "Prática desenvolvida ao longo dos séculos, especialmente com as ordens monásticas.",
+    "institutedBy": "Várias ordens religiosas e aprovações papais.",
+    "verse": "Mateus 23:5 - \"E fazem todas as obras a fim de serem vistos pelos homens; pois trazem largos filactérios, e alargam as franjas das suas vestes.\""
+  },
+  {
+    "id": 95,
+    "title": "Doutrina da Comunhão dos Santos",
+    "institution": "Formalizada no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "1 Coríntios 1:2 - \"À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados para serem santos, com todos os que em todo o lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso.\""
+  },
+  {
+    "id": 96,
+    "title": "Veneração do Sagrado Coração de Jesus",
+    "institution": "Popularizada no século XVII por Santa Margarida Maria Alacoque.",
+    "institutedBy": "Santa Margarida Maria Alacoque e várias aprovações papais.",
+    "verse": "Mateus 22:37-38 - \"E Jesus disse-lhe"
+  },
+  {
+    "id": 97,
+    "title": "Estabelecimento do Concílio Vaticano II",
+    "institution": "Realizado de 1962 a 1965.",
+    "institutedBy": "Papa João XXIII.",
+    "verse": "Colossenses 2:8 - \"Tendo cuidado para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo.\""
+  },
+  {
+    "id": 98,
+    "title": "Instrução sobre o Rito da Confirmação",
+    "institution": "Formalizado no Concílio de Trento (1545-1563).",
+    "institutedBy": "Concílio de Trento.",
+    "verse": "Atos 8:14-17 - \"Os apóstolos, pois, que estavam em Jerusalém, ouvindo que Samaria recebera a palavra de Deus, enviaram para lá Pedro e João. Os quais, tendo descido, oraram por eles para que recebessem o Espírito Santo. Porque sobre nenhum deles tinha ainda descido; mas somente eram batizados em nome do Senhor Jesus. Então lhes impuseram as mãos, e receberam o Espírito Santo.\""
+  },
+  {
+    "id": 99,
+    "title": "Estabelecimento da Liturgia Renovada",
+    "institution": "Implementada após o Concílio Vaticano II (1965).",
+    "institutedBy": "Concílio Vaticano II.",
+    "verse": "Malaquias 3:6 - \"Porque eu, o Senhor, não mudo; por isso vós, filhos de Jacó, não sois consumidos.\""
+  },
+  {
+    "id": 100,
+    "title": "Festa da Misericórdia Divina",
+    "institution": "Estabelecida em 2000 pelo Papa João Paulo II.",
+    "institutedBy": "Papa João Paulo II.",
+    "verse": "Romanos 5:9 - \"Logo muito mais agora, sendo justificados pelo seu sangue, seremos por ele salvos da ira.\""
+  }
+]
